@@ -1,3 +1,4 @@
 .ipynb_checkpoints
 aws_keys.py
 *.csv
+_pycache_
