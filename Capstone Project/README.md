@@ -8,7 +8,7 @@ This repository contains all the documents with regards to building a machine le
 * Part 5: Machine Learning - This walks through the different machine learning models (also includes a few boosting methods) used and discusses possible future work based on the results.
 
 ### Requirements
-I used Python 3.7.4 to run the above files. You will need to install the following packages(either pip or conda) to run the code:
+I used Python 3.7.4 to run the above files. You will also need an AWS account with a key to access the files on S3. You will need to install the following packages(either pip or conda) to run the code:
 * boto3 
 * numpy
 * pandas
